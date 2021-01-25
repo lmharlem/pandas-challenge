@@ -1,6 +1,6 @@
-# Heroes of Pymoli Analysis [].Images/python-pandas.png
+# Heroes of Pymoli Analysis ![](Images/python-pandas.png)
 
-[](Images/Fantasy.png)
+![](Images/Fantasy.png)
 
 ## This Pandas challenge analyzes data for the fantasy game Heroes of Pymoli. This analysis will generate a report that breaks down the game's purchasing data into meaningful insights.
 
