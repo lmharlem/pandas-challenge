@@ -1,6 +1,4 @@
-                                        ![](Images/python-pandas.png)
-
-# Heroes of Pymoli Analysis 
+# Heroes of Pymoli Analysis ![](Images/python-pandas.png)
 
 ![](Images/Fantasy.png)
 
