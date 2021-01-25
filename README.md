@@ -1,4 +1,4 @@
-# Heroes of Pymoli Analysis :panda:
+# Heroes of Pymoli Analysis :snake:
 
 ![](Images/Fantasy.png)
 
