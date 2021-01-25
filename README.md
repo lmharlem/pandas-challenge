@@ -1,6 +1,6 @@
 # Pandas, Pandas, Pandas 
 
-![](Images/Budget_data.PNG)
+![](Images/Fantasy.png)
 
 You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
 
