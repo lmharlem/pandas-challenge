@@ -1,4 +1,4 @@
-# Heroes of Pymoli Analysis ![](Images/python-pandas.png)
+# Heroes of Pymoli Analysis :panda_face:
 
 ![](Images/Fantasy.png)
 
